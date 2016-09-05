@@ -31,6 +31,7 @@ a {
 
  div.carousel {
  	margin-top: 80px;
+ 	margin-bottom: 50px;
  }
 
 footer {
@@ -39,10 +40,21 @@ footer {
 
 footer {
 	color: #2C367D;
+	margin-top: 50px;
 }
 
 .footer-links {
 	color: #777777;
+}
+
+h1 {
+	font-size: 100px;
+	font-family: 
+}
+
+h2 {
+	font-size: 40px;
+	font-weight: normal;
 }
 
 h4 {
@@ -53,6 +65,10 @@ i {
 	font-family: 'PT Sans', sans-serif;
 	color: #777777;
 	font-size: 12px;
+}
+
+li {
+	font-family: 'PT Sans', sans-serif;
 }
 
  nav {
@@ -85,6 +101,7 @@ i {
 
 p {
 	font-family: 'PT Sans', sans-serif;
+	font-size: 18px;
 }
 
 p.copyright {
