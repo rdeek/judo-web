@@ -21,6 +21,9 @@
 [...]
 */
  */
+a {
+	color: #777777;
+}
 
  .carousel-caption h2 {
  	font-size: 125px;
@@ -31,7 +34,25 @@
  }
 
 footer {
-	color: #F0F0F0;
+	background-color: #F0F0F0;
+}
+
+footer {
+	color: #2C367D;
+}
+
+.footer-links {
+	color: #777777;
+}
+
+h4 {
+	color: #2C367D;
+}
+
+i {
+	font-family: 'PT Sans', sans-serif;
+	color: #777777;
+	font-size: 12px;
 }
 
  nav {
@@ -62,6 +83,15 @@ footer {
 	margin-right: 35px;
 }
 
+p {
+	font-family: 'PT Sans', sans-serif;
+}
+
 p.copyright {
 	color: #AAAAB4;
+}
+
+p.footer-text {
+	color: #777777;
+	font-family: 'PT Sans', sans-serif;
 }
