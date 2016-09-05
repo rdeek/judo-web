@@ -10,6 +10,7 @@ gem 'coffee-rails', '~> 4.1.0'
 gem 'jquery-turbolinks'
 gem 'mail_form'
 gem 'simple_form'
+gem "jquery-slick-rails"
 
 gem 'jquery-rails'
 gem 'turbolinks'

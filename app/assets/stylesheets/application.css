@@ -11,10 +11,24 @@
  * file per style scope.
  *
  *= require_tree .
+ *= require bootstrap.min
  *= require_self
  *= require font-awesome
  *= require bootstrap-social
+ /*
+[...]
+*= require slick
+[...]
+*/
  */
+
+ .carousel-caption h2 {
+ 	font-size: 125px;
+ }
+
+ div.carousel {
+ 	margin-top: 80px;
+ }
 
 footer {
 	color: #F0F0F0;
@@ -46,4 +60,8 @@ footer {
 	color: #22231C;
 	margin-top: 15px;
 	margin-right: 35px;
+}
+
+p.copyright {
+	color: #AAAAB4;
 }
